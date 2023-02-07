@@ -9,7 +9,7 @@ Now, although X Education gets a lot of leads, its lead conversion rate is very 
 ![image](https://user-images.githubusercontent.com/79974360/167304338-9fc42898-571e-45e4-bf60-9dd822e32d71.png)
 
  
-Lead Conversion Process - Demonstrated as a funnel
+`Lead Conversion Process - Demonstrated as a funnel`
 
 
 
